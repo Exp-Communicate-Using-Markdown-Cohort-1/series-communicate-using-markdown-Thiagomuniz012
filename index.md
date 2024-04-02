@@ -4,3 +4,5 @@
 #### H4 Header
 ##### H5 Header
 ###### H6 Header
+
+![Image of Minioncat](https://octodex.github.com/images/minion.png)
